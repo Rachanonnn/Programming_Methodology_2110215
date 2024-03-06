@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Progmeth_Lab6_2023_2_6633210721_Rachanon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Progmeth_Lab6_2023_2_6633210721_Rachanon_jar</output-path>
+    <root id="archive" name="Progmeth_Lab6_2023_2_6633210721_Rachanon.jar">
+      <element id="module-output" name="Progmeth_Lab6_2023_2_6633210721_Rachanon" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/javafx-sdk-21.0.2/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/javafx-sdk-21.0.2/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/javafx-sdk-21.0.2/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/javafx-sdk-21.0.2/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/javafx-sdk-21.0.2/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/javafx-sdk-21.0.2/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/javafx-sdk-21.0.2/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/javafx-sdk-21.0.2/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="module-source" name="Progmeth_Lab6_2023_2_6633210721_Rachanon" />
+    </root>
+  </artifact>
+</component>
